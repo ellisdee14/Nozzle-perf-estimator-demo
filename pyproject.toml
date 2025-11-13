@@ -1,0 +1,34 @@
+[project]
+requires-python = ">=3.10"
+
+[tool.black]
+line-length = 100
+target-version = ["py310"]
+skip-string-normalization = true
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+select = [
+  "E",  # pycodestyle errors
+  "F",  # pyflakes
+  "I",  # isort (import order)
+  "B",  # flake8-bugbear
+  "UP", # pyupgrade
+]
+ignore = [
+  "E203", # slice whitespace (Black compatibility)
+  "E501", # line length handled by Black
+]
+exclude = [
+  ".git",
+  ".venv",
+  "__pycache__",
+  "build",
+  "dist",
+]
+
+[tool.ruff.isort]
+known-first-party = ["src"]
+combine-as-imports = true
+force-sort-within-sections = true
